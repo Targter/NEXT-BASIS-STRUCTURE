@@ -19,8 +19,8 @@ bun dev
 MONGOOSE_CONNECTION_STRING=mongodb+srv://next-crash-course-fcc:nextcourse00@cluster0.w25ejdv.mongodb.net/next-crash-fccC
 JWT_SECRET_KEY = DSFeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlib3JkIjoiYWJoYWFkMjNyMzQyYUAjJEAkeXRoZWdhZGZhZGZhZGZhZGZhZGZhZHJlYXRtYW4ifQ.uesdymi3k9DGERHZ0pwVopVj2wngLeUt0mQI23ym-tg
 
-MAIL_USERNAME=ed26f44c1e07ae
-MAIL_PASSWORD=ac6e2d5f4ddd81
+MAIL_USERNAME=ed26f44c1e307ae
+MAIL_PASSWORD=ac6e2d5f4d2dd81
 
 domain=http://localhost:3000
 
